@@ -1,0 +1,15 @@
+{
+  "name": "@mkeet/cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Tierney Cyren <hello@bnb.im> (https://bnb.im/)",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^19.0.1",
+    "dotenv": "^16.0.1",
+    "luxon": "^2.4.0"
+  }
+}
